@@ -1,5 +1,3 @@
-## ML---Predicting_Molecular_Solubility_in_Water
-
 # SolubilitySolver
 
 SolubilitySolver is a machine learning project designed to predict the solubility of molecules in water. The project utilizes various machine learning techniques and molecular descriptors to determine whether a given molecule is soluble or insoluble in water.
