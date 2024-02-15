@@ -8,18 +8,23 @@ The solubility of a molecule in water is a critical property in various fields s
 
 # Features
 
-Machine Learning Models: SolubilitySolver employs state-of-the-art machine learning algorithms, including decision trees, random forests, and deep learning models, to predict molecule solubility.
+- Machine Learning Models: SolubilitySolver employs state-of-the-art machine learning algorithms, including decision trees, random forests, and deep learning models, to predict molecule solubility.
 
-Molecular Descriptors: The project extracts relevant molecular descriptors from chemical structures, including molecular weight, atomic composition, and structural fingerprints, to characterize the molecules.
+- Molecular Descriptors: The project extracts relevant molecular descriptors from chemical structures, including molecular weight, atomic composition, and structural fingerprints, to characterize the molecules.
 
-Data Visualization: SolubilitySolver offers visualizations to help users explore the relationships between molecular features and solubility predictions.
+- Data Visualization: SolubilitySolver offers visualizations to help users explore the relationships between molecular features and solubility predictions.
 
-Scalability: The project is designed to handle large datasets of diverse chemical compounds efficiently, enabling robust solubility predictions across a wide range of molecules.
+- Scalability: The project is designed to handle large datasets of diverse chemical compounds efficiently, enabling robust solubility predictions across a wide range of molecules.
 
 # Usage
 
-Data Preparation: Prepare your dataset containing molecular structures and corresponding solubility values.
+- Data Preparation: Prepare your dataset containing molecular structures and corresponding solubility values.
 
-Model Training: Train the machine learning models using the provided training scripts and your prepared dataset.
+- Model Training: Train the machine learning models using the provided training scripts and your prepared dataset.
 
-Prediction: Use the trained models to predict the solubility of new molecules by providing their molecular descriptors.
+- Prediction: Use the trained models to predict the solubility of new molecules by providing their molecular descriptors.
+
+# Acknowledgements
+
+- The development of SolubilitySolver is inspired by the growing need for predictive tools in chemistry and materials science.
+- We thank the open-source community for their contributions to libraries and tools used in this project.
