@@ -16,6 +16,13 @@ The solubility of a molecule in water is a critical property in various fields s
 
 - Scalability: The project is designed to handle large datasets of diverse chemical compounds efficiently, enabling robust solubility predictions across a wide range of molecules.
 
+# Algorithms Used 
+
+- Linear Regression
+- Random Forest
+- Ridge Regression
+- Lasso Regression
+
 # Usage
 
 - Data Preparation: Prepare your dataset containing molecular structures and corresponding solubility values.
